@@ -1,0 +1,15 @@
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\bin\Debug\net6.0\NewtonMethod.exe
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\bin\Debug\net6.0\NewtonMethod.deps.json
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\bin\Debug\net6.0\NewtonMethod.runtimeconfig.json
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\bin\Debug\net6.0\NewtonMethod.dll
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\bin\Debug\net6.0\NewtonMethod.pdb
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.csproj.AssemblyReference.cache
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.AssemblyInfoInputs.cache
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.AssemblyInfo.cs
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.csproj.CoreCompileInputs.cache
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.dll
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\refint\NewtonMethod.dll
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.pdb
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\NewtonMethod.genruntimeconfig.cache
+C:\Users\nasti\Desktop\курсовая ОАИП\NewtonMethod\NewtonMethod\obj\Debug\net6.0\ref\NewtonMethod.dll

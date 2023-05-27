@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonMethod", "NewtonMethod\NewtonMethod.csproj", "{C6D21718-9ECC-4154-9304-9F0D3172BB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D21718-9ECC-4154-9304-9F0D3172BB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D21718-9ECC-4154-9304-9F0D3172BB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D21718-9ECC-4154-9304-9F0D3172BB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D21718-9ECC-4154-9304-9F0D3172BB10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1268F12-EFAE-4F66-91D2-10B7CC3D6A28}
+	EndGlobalSection
+EndGlobal
